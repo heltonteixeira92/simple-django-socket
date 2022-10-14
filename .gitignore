@@ -1,0 +1,7 @@
+*.pyc
+.idea/
+media/
+CACHE/
+.sass-cache/
+*.djcache
+*.sqlite3
